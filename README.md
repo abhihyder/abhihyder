@@ -85,7 +85,6 @@ You can find some of my public repositories here:
 ## Contact Information
 
 - Email: tofayelhyder71@gmail.com
-- Phone: +8801625623168
 
 ## Connect with Me
 
