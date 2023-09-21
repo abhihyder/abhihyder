@@ -91,6 +91,6 @@ You can find some of my public repositories here:
 Feel free to connect with me on LinkedIn and explore more of my work:
 
 - [Packagist](https://packagist.org/packages/hyder)
-- [GitHub](https://github.com/abhihyder)
+- [GitHub Page](https://abhihyder.github.io/portfolio)
 
 Looking forward to connecting with you! 😄
