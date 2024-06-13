@@ -38,8 +38,8 @@ You can find some of my public repositories here:
 
 ## Other Profiles
 [![Packagist](https://img.shields.io/badge/Packagist-F28D1A?style=flat-square&logo=packagist&logoColor=white)](https://packagist.org/packages/hyder)
-[![NPM](https://img.shields.io/badge/npm-blue.svg?style=flat-square&logo=npm)](https://www.npmjs.com/org/abhihyder)
-[![GitHub Page](https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=github&logoColor=white)](https://abhihyder.github.io/portfolio)
+[![NPM](https://img.shields.io/badge/NPM-blue.svg?style=flat-square&logo=npm)](https://www.npmjs.com/org/abhihyder)
+[![GitHub Page](https://img.shields.io/badge/GitHub_Page-222222?style=flat-square&logo=github&logoColor=white)](https://abhihyder.github.io/portfolio)
 
 ### Recent GitHub Activity
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhihyder&show_icons=true&theme=radical)
