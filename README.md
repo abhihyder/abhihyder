@@ -46,6 +46,6 @@ You can find some of my public repositories here:
 ![Profile Views](https://komarev.com/ghpvc/?username=abhihyder&style=flat-square)
 
 ## Contact
-- **Email**: [abhihyder@example.com](mailto:tofayelhyder71@gmail.com)
-- **LinkedIn**: [Abhi Hyder](https://linkedin.com/in/tofayelhyder)
+- **Email**: [tofayelhyder71@gmail.com](mailto:tofayelhyder71@gmail.com)
+- **LinkedIn**: [Tofayel Hyder](https://linkedin.com/in/tofayelhyder)
 
