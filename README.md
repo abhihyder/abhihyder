@@ -1,96 +1,51 @@
 
-<!--
-**abhihyder/abhihyder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Abhi Hyder 👋
 
-Here are some ideas to get you started:
+## About Me
+I am a passionate software developer with a keen interest in building impactful applications. I love exploring new technologies and continuously improving my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## MyStack
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Shopify](https://img.shields.io/badge/shopify-%238DB543.svg?style=for-the-badge&logo=shopify&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vue-dot-js&logoColor=%234FC08D)
+![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%232E78C7.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
-
-
-# Tofayel Hyder - Software Engineer
-
-![GitHub followers](https://img.shields.io/github/followers/abhihyder?style=social)
-![GitHub stars](https://img.shields.io/github/stars/abhihyder?style=social)
-
-Hello there! 👋 Welcome to my GitHub profile! I'm Tofayel Hyder, a passionate Software Engineer based in Mirpur-12, Dhaka, Bangladesh. I specialize in PHP/Laravel/CakePHP, MySQL, VueJS, jQuery, JavaScript, Bootstrap, and Git. With over 3 years of experience, I have been involved in software and database architecture design, bug fixing, performance optimization, implementing new features, and developing and integrating REST API endpoints.
-
-## Career Summary
-
-I have worked on a variety of projects, including SAAS-based applications such as Vehicle Management System (VMS) and Digital Nothi Management (D-Nothi), as well as a real-time Vehicle Tracking System (VTS), Geo-Coding Service, and a File Share Application with the S3 file system. I am also experienced in package development based on Laravel.
-
-## Experience
-
-### Laravel Developer — Gain Solutions, Mirpur-12
-##### February 2023 - Present
-
-- Bug fixing and performance optimization.
-- Implementing new features.
-- Developing and integrating REST API endpoints.
-- Laravel package development.
-
-### Software Engineer — Tappware Solutions Limited, Paltan
-##### April 2022 - January 2023
-
-- Software and database architecture design.
-- Bug fixing and performance optimization.
-- Implementing new features.
-- Developing and integrating REST API endpoints.
-
-### Software Engineer — Tech2View Limited, Remote
-##### August 2021 - March 2022
-
-- Requirement analysis and architecture design.
-- Developed and integrated REST API endpoints.
-- Worked with the S3 file system.
-- Implemented new features.
-
-### Software Developer — Go Max Automation, Mirpur DOHS
-##### December 2019 - July 2021
-
-- Developed large applications with team-led direction and implemented features with minimum supervision.
-- Developed a SAAS-based application.
-
-## Skills
-
-- **Backend:** PHP/Laravel/CakePHP
-- **Database:** MySQL
-- **Frontend:** VueJS (Beginner), jQuery, JavaScript, Bootstrap, Tailwind CSS (Beginner)
-- **Others:** Git
-
-## Education
-
-- BSc in CSE (Running) - Northern University Bangladesh
-- Diploma in Electrical Engineering - SAIC Institute of Management and Technology (CGPA: 3.30 out of 4)
-- HSC (Business Studies) - Kalipur High School and College (GPA: 3.50 out of 5)
-- SSC (Business Studies) - Shikari Kandi Akbaria High School (GPA: 4.00 out of 5)
+### Find me on
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tofayelhyder/) 
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/tofayelhyder)
 
 ## GitHub Repositories
 
 You can find some of my public repositories here:
 
-- [learnExpressJS](https://github.com/abhihyder/learnExpressJS)
-- [dynamic-query-builder](https://github.com/abhihyder/dynamic-query-builder)
-- [employee-attendance-frontend](https://github.com/abhihyder/employee-attendance-frontend)
-- [employee-attendance-backend](https://github.com/abhihyder/employee-attendance-backend)
+- [Converter](https://github.com/abhihyder/converter)
+- [Queueable](https://github.com/abhihyder/queueable)
+- [JS Paginator](https://github.com/abhihyder/js-paginator)
+- [Dynamic Query Builder](https://github.com/abhihyder/dynamic-query-builde)
 
-## Contact Information
-
-- Email: tofayelhyder71@gmail.com
-
-## Connect with Me
-
-Feel free to connect with me on LinkedIn and explore more of my work:
-
+## Other Profiles
 - [Packagist](https://packagist.org/packages/hyder)
 - [GitHub Page](https://abhihyder.github.io/portfolio)
+- 
+### Recent GitHub Activity
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhihyder&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhihyder&layout=compact&theme=radical)
 
-Looking forward to connecting with you! 😄
+![Profile Views](https://komarev.com/ghpvc/?username=abhihyder&style=flat-square)
+
+## Contact
+- **Email**: [abhihyder@example.com](mailto:tofayelhyder71@gmail.com)
+- **LinkedIn**: [Abhi Hyder](https://linkedin.com/in/tofayelhyder)
+
