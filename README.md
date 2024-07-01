@@ -34,7 +34,7 @@ You can find some of my public repositories here:
 - [Converter](https://github.com/abhihyder/converter)
 - [Queueable](https://github.com/abhihyder/queueable)
 - [JS Paginator](https://github.com/abhihyder/js-paginator)
-- [Dynamic Query Builder](https://github.com/abhihyder/dynamic-query-builde)
+- [Dynamic Query Builder](https://github.com/abhihyder/dynamic-query-builder)
 
 ## Other Profiles
 [![Packagist](https://img.shields.io/badge/Packagist-F28D1A?style=flat-square&logo=packagist&logoColor=white)](https://packagist.org/packages/hyder)
