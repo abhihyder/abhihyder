@@ -1,7 +1,16 @@
-# Hi there, I'm Tofayel Hyder 👋
+![👋 Hi, my name is Tofayel Hyder Abhi](https://media.licdn.com/dms/image/v2/D4E16AQG9W1dg2MJjOQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1683190874191?e=1732752000&v=beta&t=lmznKzHJNNLg2_xvWxC1wbZc_NzrIL9wzhpmb-at3eA)
 
-## About Me
-I am a passionate software developer with a keen interest in building impactful applications. I love exploring new technologies and continuously improving my skills.
+<div id="toc">
+  <ul align="center" style="list-style: none">
+    <summary>
+      <h1>
+        👋 Hi, my name is Tofayel Hyder Abhi
+      </h1>
+    </summary>
+  </ul>
+</div>
+
+ **<h3 align="left">I am a passionate software developer with a keen interest in building impactful applications. I love exploring new technologies and continuously improving my skills.</h3>**
 
 ## MyStack
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -23,9 +32,13 @@ I am a passionate software developer with a keen interest in building impactful 
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### Find me on
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tofayelhyder/) 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/tofayelhyder)
+## Find me on
+<p align="left"><a href="https://www.linkedin.com/in/tofayelhyder" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.facebook.com/tofayelhyder" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" height="28" style="margin-right: 4px"></a> </p>
+
+## Other Profiles
+[![Packagist](https://img.shields.io/badge/Packagist-F28D1A?style=flat-square&logo=packagist&logoColor=white)](https://packagist.org/packages/hyder)
+[![NPM](https://img.shields.io/badge/NPM-blue.svg?style=flat-square&logo=npm)](https://www.npmjs.com/org/abhihyder)
+[![GitHub Page](https://img.shields.io/badge/GitHub_Page-222222?style=flat-square&logo=github&logoColor=white)](https://abhihyder.github.io/portfolio)
 
 ## GitHub Repositories
 
@@ -36,17 +49,14 @@ You can find some of my public repositories here:
 - [JS Paginator](https://github.com/abhihyder/js-paginator)
 - [Dynamic Query Builder](https://github.com/abhihyder/dynamic-query-builder)
 
-## Other Profiles
-[![Packagist](https://img.shields.io/badge/Packagist-F28D1A?style=flat-square&logo=packagist&logoColor=white)](https://packagist.org/packages/hyder)
-[![NPM](https://img.shields.io/badge/NPM-blue.svg?style=flat-square&logo=npm)](https://www.npmjs.com/org/abhihyder)
-[![GitHub Page](https://img.shields.io/badge/GitHub_Page-222222?style=flat-square&logo=github&logoColor=white)](https://abhihyder.github.io/portfolio)
-
 ### Recent GitHub Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhihyder&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhihyder&layout=compact&theme=radical)
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=abhihyder&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhihyder&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
+</p>
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=abhihyder&style=flat-square)
 
 ## Contact
 - **Email**: [tofayelhyder71@gmail.com](mailto:tofayelhyder71@gmail.com)
-- **LinkedIn**: [Tofayel Hyder](https://linkedin.com/in/tofayelhyder)
