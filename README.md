@@ -1,7 +1,6 @@
-![👋 Hi, my name is Tofayel Hyder Abhi](https://media.licdn.com/dms/image/v2/D4E16AQG9W1dg2MJjOQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1683190874191?e=1732752000&v=beta&t=lmznKzHJNNLg2_xvWxC1wbZc_NzrIL9wzhpmb-at3eA)
 
 <div id="toc">
-  <ul align="center" style="list-style: none">
+  <ul style="list-style: none">
     <summary>
       <h1>
         👋 Hi, my name is Tofayel Hyder Abhi
