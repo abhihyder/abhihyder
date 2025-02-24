@@ -39,15 +39,6 @@
 [![NPM](https://img.shields.io/badge/NPM-blue.svg?style=flat-square&logo=npm)](https://www.npmjs.com/org/abhihyder)
 [![GitHub Page](https://img.shields.io/badge/GitHub_Page-222222?style=flat-square&logo=github&logoColor=white)](https://abhihyder.github.io/portfolio)
 
-## GitHub Repositories
-
-You can find some of my public repositories here:
-
-- [Converter](https://github.com/abhihyder/converter)
-- [Queueable](https://github.com/abhihyder/queueable)
-- [JS Paginator](https://github.com/abhihyder/js-paginator)
-- [Dynamic Query Builder](https://github.com/abhihyder/dynamic-query-builder)
-
 ### Recent GitHub Activity
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=abhihyder&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
